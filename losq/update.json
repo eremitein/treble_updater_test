@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1588310562,
-      "filename": "system.7z",
+      "datetime": 1588348339,
+      "filename": "apply-patches.sh",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
       "romtype": "UNOFFICIAL",
-      "size": 314572800,
-      "url": "https://example.com/system.7z",
+      "size": 829,
+      "url": "https://github.com/eremitein/treble-patches/raw/caos/apply-patches.sh",
       "version": "17.1"
     }
   ]
